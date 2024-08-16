@@ -17,8 +17,6 @@ Coffee, thinking, music, internet and playing with keyboard are my happy places.
 
 - :handshake: I’m looking for help with **Node Js And React Js**
 
-- :male-technologist: All of my projects are available at [Testing](Testing)
-
 - :memo: I regularly write articles on [Instagrame](Instagrame)
 
 - :speech_balloon: Ask me about **Laravel, Php**
